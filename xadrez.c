@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    char carta [1] = 1;
+    int carta = 1;
     char estado = 'R';
     char codigo [10] = "R02";
     char cidade [20] = "Rio de Janeiro";
@@ -11,7 +11,7 @@ int main(){
     int turisticos = 10;
 
 
-    char carta [2] = 2;
+    int carta = 2;
     char estado = 'S';
     char codigo [10] = "S01";
     char cidade [20] = "Santa catarina";
